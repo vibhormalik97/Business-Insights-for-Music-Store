@@ -1,4 +1,4 @@
-# Business-Insights-for-Music-Store
+# Business Insights for Music Store
 
 We'll be working with a modified version of a database called Chinook. 
 The Chinook database contains information about a fictional digital music shop - kind of like a mini-iTunes store. 
