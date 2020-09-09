@@ -8,4 +8,4 @@ The Chinook database contains information about the artists, songs, and albums f
 as well as information on the shop's employees, customers, and the customers purchases. This information is contained in eleven seperate tables.
 
 <svg xmlns="https://s3.amazonaws.com/dq-content/189/chinook-schema.svg">
-</svg>
+
